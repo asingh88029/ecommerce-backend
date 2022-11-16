@@ -1,0 +1,7 @@
+
+/node_modules
+
+/backend/config/config.env
+
+#mac files to ignore
+.DS_Store
